@@ -1941,12 +1941,6 @@ para reducir la velocidad. Los spoilers se extienden inmediatamente después de 
 
 
 
-</div>
-
-
-
-
-
 
 
 
