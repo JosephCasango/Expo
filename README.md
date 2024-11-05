@@ -12,6 +12,43 @@
 * {box-sizing: border-box}
 
 
+
+
+
+
+
+
+
+
+
+.Mensajealert {
+  padding: 20px;
+  background-color: #f44336;
+  color: white;
+}
+
+.CerrarM {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.CerrarM:hover {
+  color: black;
+}
+
+
+
+
+
+
+
+
 /* Style tab links */
 .tablink {
   background-color: #555;
@@ -1097,8 +1134,14 @@ function showSlides() {
 
 
 
+<div class="Mensajealert">
+  <span class="CerrarM" onclick="this.parentElement.style.display='none';">&times;</span> 
+  <strong>Nota!</strong> JOSE MANUEL CASANGO DE LA CRUZ
+</div>
 
 
+<br>
+<br>
 
 
 
