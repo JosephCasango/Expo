@@ -1136,7 +1136,7 @@ function showSlides() {
 
 <div class="Mensajealert">
   <span class="CerrarM" onclick="this.parentElement.style.display='none';">&times;</span> 
-  <strong>Nota!</strong> JOSE MANUEL CASANGO DE LA CRUZ
+  <strong>Nota!</strong> Puede que algunas de las funciones fallen dentro de la pagina web
 </div>
 
 
